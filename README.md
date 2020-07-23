@@ -1,4 +1,4 @@
-![](bun.png)
+![](/bun.png)
 
 <!--
 ### Hi there 👋
