@@ -1,4 +1,4 @@
-![](/bun.png)
+![](https://github.com/NotMyWing/NotMyWing/blob/master/bun.png)
 
 <!--
 ### Hi there 👋
